@@ -27,9 +27,7 @@ ul, ol {
     font-style: italic;
     color: white;
     font-weight: bold;
-    padding: 0 110px;
-    
-    
+    padding: 0 110px;   
 }
 
 ul { 
@@ -62,7 +60,6 @@ ul {
     font-weight: bold;
     font-style: italic;
     font-display: center;
-
 }
 
 .texto:hover {
